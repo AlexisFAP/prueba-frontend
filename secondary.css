@@ -3,7 +3,7 @@ hr{
 }
 
 .header-image-bk{
-    background-image: url('/images/placeholder-header.png');
+    background-image: url('https://alexisfap.github.io/prueba-frontend/images/placeholder-header.png');
     width: 1334px;
     height: 429px;
 }
